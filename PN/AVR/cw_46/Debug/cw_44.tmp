@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\Python\Desktop\PN\AVR\cw_44\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\Debug/cw_44.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_44.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_44.map</FILE>
+  <FILE>cw_44.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Data><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>49</LINE></Data>
+  <MainLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>66</LINE></MainLoop>
+  <NumberToDigits><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>130</LINE></NumberToDigits>
+  <DelayInMs><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>199</LINE></DelayInMs>
+  <DigitTo7segCode><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>227</LINE></DigitTo7segCode>
+  <EndOfLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>97</LINE></EndOfLoop>
+  <Divide><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>163</LINE></Divide>
+  <DivideLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>170</LINE></DivideLoop>
+  <EndOfDivision><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>186</LINE></EndOfDivision>
+  <DivideGreater><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>177</LINE></DivideGreater>
+  <InternalLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>202</LINE></InternalLoop>
+  <DelayOneMs><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>210</LINE></DelayOneMs>
+  <CombinedLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>215</LINE></CombinedLoop>
+  <Convert_Loop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_44\main.asm</FILE><LINE>234</LINE></Convert_Loop>
+ </LABELS>
+</ASSEMBLER_INFO>

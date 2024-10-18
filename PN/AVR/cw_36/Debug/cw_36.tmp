@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\Python\Desktop\PN\AVR\cw_36\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\Debug/cw_36.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_36.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_36.map</FILE>
+  <FILE>cw_36.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>103</LINE></_main>
+  <_Timer_ISR><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>72</LINE></_Timer_ISR>
+  <_ExtInt_ISR><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>47</LINE></_ExtInt_ISR>
+  <_NumberToDigits><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>157</LINE></_NumberToDigits>
+  <MainLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>136</LINE></MainLoop>
+  <DealyInMs><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>274</LINE></DealyInMs>
+  <DigitTo7segCode><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>254</LINE></DigitTo7segCode>
+  <_Divide><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>217</LINE></_Divide>
+  <DivideLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>223</LINE></DivideLoop>
+  <Greater><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>229</LINE></Greater>
+  <EndDivide><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>235</LINE></EndDivide>
+  <Table><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>252</LINE></Table>
+  <DealyLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>281</LINE></DealyLoop>
+  <OneMsLoop><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>291</LINE></OneMsLoop>
+  <L1><FILE>C:\Users\Python\Desktop\PN\AVR\cw_36\main.asm</FILE><LINE>297</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
